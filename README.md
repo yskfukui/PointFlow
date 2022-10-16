@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ## Comand line example
 ```
-python .\point_generator.py --input ./movie/input.mp4 --output ./movie/output.mp4
+python ./point_generator.py --input ./movie/input.mp4 --output ./movie/output.mp4
 ```
 
 ## Parameter
