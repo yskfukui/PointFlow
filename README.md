@@ -2,9 +2,12 @@
 
 **Generator of a point cloud movie.**
 ## Install
-- numpy
-- scipy
-- pillow (for example code to load/save image)
+```
+git clone https://github.com/yskfukui/PointFlow.git
+cd PointFlow
+pip install -r requirements.txt
+```
+
 
 ## Comand line example
 ```
